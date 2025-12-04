@@ -203,5 +203,9 @@ class ProfessorMapApp:
 # Executar
 if __name__ == "__main__":
     root = tk.Tk()
+<<<<<<< HEAD:CloudeUm.py
     app = ProfessorMapApp(root)
+=======
+    app = CareerMapApp(root)
+>>>>>>> e48ecf6225036c6f4cf7257562198fa4228eadd3:ModeloUm.py
     root.mainloop()
